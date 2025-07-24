@@ -1,4 +1,4 @@
-package MyFirstPackage;
+package Lecture1.MyFirstPackage;
 
 public class Operators {
     public static void main(){
