@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e47f5237-8457-48c3-b0a1-e0cce8f2de92" name="Changes" comment="Initial commit">
+    <list default="true" id="e47f5237-8457-48c3-b0a1-e0cce8f2de92" name="Changes" comment="Update the code structure">
+      <change afterPath="$PROJECT_DIR$/src/Lecture1/Exercises/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture1/Exercises/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture1/Exercises/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture2/ArithmeticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture2/AssignmentOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture2/ComparisonOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture2/IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture2/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture2/OperatorPrecedence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture2/SwitchCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +32,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="30KURk0Lk6mUhzH0gfpiFD1IUcp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,26 +43,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArithmeticOperators.executor": "Run",
+    "Application.AssignmentOperators.executor": "Run",
+    "Application.ComparisonOperators.executor": "Run",
     "Application.DatatypesCasting.executor": "Run",
+    "Application.Draw.executor": "Run",
+    "Application.Exercise2.executor": "Run",
+    "Application.Exercise5.executor": "Run",
+    "Application.IfStatements.executor": "Run",
+    "Application.LogicalOperators.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MyFirstClass.executor": "Run",
     "Application.MyFirstInput.executor": "Run",
+    "Application.OperatorPrecedence.executor": "Run",
     "Application.Operators.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Skillo/BaseJava/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MyFirstInput">
-    <configuration name="DatatypesCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstPackage.DatatypesCasting" />
+  <component name="RunManager" selected="Application.SwitchCase">
+    <configuration name="ComparisonOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture2.ComparisonOperators" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyFirstPackage.*" />
+          <option name="PATTERN" value="Lecture2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,19 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="BaseJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyFirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstPackage.MyFirstClass" />
+    <configuration name="IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture2.IfStatements" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyFirstPackage.*" />
+          <option name="PATTERN" value="Lecture2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstPackage.MyFirstInput" />
+    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture2.LogicalOperators" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyFirstPackage.*" />
+          <option name="PATTERN" value="Lecture2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +106,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyFirstPackage.Operators" />
+    <configuration name="OperatorPrecedence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture2.OperatorPrecedence" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyFirstPackage.*" />
+          <option name="PATTERN" value="Lecture2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture2.SwitchCase" />
+      <module name="BaseJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyFirstInput" />
-        <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.DatatypesCasting" />
-        <item itemvalue="Application.MyFirstClass" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SwitchCase" />
+        <item itemvalue="Application.IfStatements" />
+        <item itemvalue="Application.OperatorPrecedence" />
+        <item itemvalue="Application.LogicalOperators" />
+        <item itemvalue="Application.ComparisonOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753385437382</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update the code structure">
+      <option name="closed" value="true" />
+      <created>1753386783118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753386783118</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,15 +195,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Update the code structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update the code structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/Lecture1/Main.java</url>
           <line>3</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lecture2/SwitchCase.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
