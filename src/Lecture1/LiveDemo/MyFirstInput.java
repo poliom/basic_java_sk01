@@ -1,4 +1,4 @@
-package Lecture1.MyFirstPackage;
+package Lecture1.LiveDemo;
 
 import java.util.Scanner;
 

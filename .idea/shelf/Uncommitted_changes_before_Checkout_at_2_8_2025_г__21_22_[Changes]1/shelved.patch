@@ -1,0 +1,349 @@
+Index: src/Lecture2/Exercises/Exercise4.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lecture2/Exercises/Exercise4.java b/src/Lecture2/Exercises/Exercise4.java
+new file mode 100644
+--- /dev/null	
++++ b/src/Lecture2/Exercises/Exercise4.java	
+@@ -0,0 +1,32 @@
++package Lecture2.Exercises;
++
++import java.util.Scanner;
++
++public class Exercise4 {
++    public static void main(String[] args) {
++        Scanner scanner = new Scanner(System.in);
++
++        System.out.println("Enter single unit price:");
++        int pricePerSingleUnit = scanner.nextInt();
++        System.out.println("Enter unit quantity:");
++        int quantity = scanner.nextInt();
++
++        int discountRate = 0;
++        if (quantity >= 100 && quantity <= 120){
++            discountRate = 15;
++        }
++        else if (quantity > 120){
++            discountRate = 20;
++        }
++
++        int revenueBeforeDiscount = quantity * pricePerSingleUnit;
++
++        //double temp = (discountRate * 0.01); //
++        double temp = (double)discountRate / 100; //
++        double discountPrice = revenueBeforeDiscount * temp;
++        double revenueAfterDiscount = revenueBeforeDiscount - discountPrice;
++
++        System.out.println("The revenue from sale: " + revenueAfterDiscount + "$");
++        System.out.println("Discount: " + discountPrice + " $(" + discountRate+".0%)");
++    }
++}
+Index: src/Lecture3/ExercisesHints.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lecture3/ExercisesHints.java b/src/Lecture3/ExercisesHints.java
+new file mode 100644
+--- /dev/null	
++++ b/src/Lecture3/ExercisesHints.java	
+@@ -0,0 +1,8 @@
++package Lecture3;
++
++public class ExercisesHints {
++    public static void main(String[] args) {
++        int[] numbers = { 2, 45, 25, 562};
++        
++    }
++}
+Index: src/Lecture3/Exercise7.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lecture3/Exercise7.java b/src/Lecture3/Exercise7.java
+new file mode 100644
+--- /dev/null	
++++ b/src/Lecture3/Exercise7.java	
+@@ -0,0 +1,34 @@
++package Lecture3;
++
++import java.util.Scanner;
++
++public class Exercise7 {
++    public static void main(String[] args) {
++        int number = 11;
++        Scanner scanner = new Scanner(System.in);
++        int guess;
++        int attempts = 0;
++
++        System.out.println("Guess my number");
++        do {
++            System.out.println("Enter the guess");
++            guess = scanner.nextInt();
++            if (number == guess){
++                System.out.println("Yes this is the number");
++                break;
++            } else if (number> guess) {
++                System.out.println("Number is higher");
++                System.out.println("Please try again");
++            }
++            else {
++                System.out.println("Number is lower");
++                System.out.println("Please try again");
++            }
++
++            attempts++;
++        }while (attempts < 10);
++        if (attempts == 10){
++            System.out.println("hahahahah, better luck next time");
++        }
++    }
++}
+Index: src/Lecture3/DoWhileLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lecture3/DoWhileLoop.java b/src/Lecture3/DoWhileLoop.java
+new file mode 100644
+--- /dev/null	
++++ b/src/Lecture3/DoWhileLoop.java	
+@@ -0,0 +1,17 @@
++package Lecture3;
++
++public class DoWhileLoop {
++    public static void main(String[] args) {
++        int number = 2;
++
++        do {
++            number++;
++            System.out.println(number);
++            number+=2;
++            System.out.println(number);
++            System.out.println("Finish");
++        }while (number>10);
++
++        System.out.println("End of Code");
++    }
++}
+Index: src/Lecture3/ForEachLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lecture3/ForEachLoop.java b/src/Lecture3/ForEachLoop.java
+new file mode 100644
+--- /dev/null	
++++ b/src/Lecture3/ForEachLoop.java	
+@@ -0,0 +1,18 @@
++package Lecture3;
++
++public class ForEachLoop {
++    public static void main(String[] args) {
++        int[] numbers = {2, 25, 75, 351, 5};
++        for(int number: numbers){
++            System.out.println(number);
++            if (number==75){
++                System.out.println("This is my the number: " + number);
++            }
++        }
++
++        String[] names = {"Mitko", "Vidko", "Pitko", "Ditko"};
++        for (String name: names){
++            System.out.println("My name is: " + name);
++        }
++    }
++}
+Index: src/Lecture3/ContinueStatement.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lecture3/ContinueStatement.java b/src/Lecture3/ContinueStatement.java
+new file mode 100644
+--- /dev/null	
++++ b/src/Lecture3/ContinueStatement.java	
+@@ -0,0 +1,36 @@
++package Lecture3;
++
++public class ContinueStatement {
++    public static void main(String[] args) {
++        for (int i=3; i<10; i++){
++            System.out.println("-------------------");
++            System.out.println("1. Next code will be shown always and number is" + i);
++            if (i<7){
++                System.out.println("2. Number is less than 7 and number is: " + i);
++                continue;
++            }
++
++            if (i<10){
++                System.out.println("3. Number is less than 10 and number is: " + i);
++            }
++
++            System.out.println("4. Number is > or = 3 and number is: " + i);
++            System.out.println("-------------------");
++        }
++
++        int numberTwo = 6;
++        while (numberTwo < 54) {
++            numberTwo += 13;
++            System.out.println("1. Number is: " + numberTwo);
++            if (numberTwo < 33) {
++                System.out.println("2. Number is less than 33");
++                continue;
++            }
++            if (numberTwo < 52) {
++                System.out.println("3. Number is less than 52");
++                continue;
++            }
++            System.out.println("4. Number is bigger than 54");
++        }
++    }
++}
+Index: src/Lecture3/BreakStatement.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lecture3/BreakStatement.java b/src/Lecture3/BreakStatement.java
+new file mode 100644
+--- /dev/null	
++++ b/src/Lecture3/BreakStatement.java	
+@@ -0,0 +1,40 @@
++package Lecture3;
++
++public class BreakStatement {
++    public static void main(String[] args) {
++        int number = 1;
++
++        while (true){
++            number++;
++
++            if (number%2==0){
++                System.out.println(number + " is even");
++            }
++            else {
++                System.out.println("This number is odd");
++                continue;
++            }
++
++            if (number==1002){
++                break;
++            }
++        }
++
++        System.out.println("--------------------------");
++
++        int numberTwo = 5;
++        while (numberTwo < 11) {
++            System.out.println("1. Number is: " + numberTwo);
++            if (numberTwo == 7) {
++                System.out.println("2. My number is == to 7");
++                break;
++            }
++            if (numberTwo < 9) {
++                System.out.println("3. Number is less than 9");
++            }
++            numberTwo++;
++            System.out.println("4. Number increased with 1, new number: " + numberTwo);
++        }
++        System.out.println("5. End Code");
++    }
++}
+Index: src/Lecture3/ForLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lecture3/ForLoop.java b/src/Lecture3/ForLoop.java
+new file mode 100644
+--- /dev/null	
++++ b/src/Lecture3/ForLoop.java	
+@@ -0,0 +1,18 @@
++package Lecture3;
++
++public class ForLoop {
++    public static void main(String[] args) {
++        System.out.println("Start");
++        int number = 10;
++        int numberTwo = 1;
++        int sum = 0;
++        for (int i=0; i<10; i++, number--){
++            System.out.println(number);
++            sum = sum + number + numberTwo;
++            System.out.println(sum);
++            //System.out.println(i);
++        }
++        System.out.println("Finish");
++    }
++}
++
+Index: src/Lecture3/NestedForLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lecture3/NestedForLoop.java b/src/Lecture3/NestedForLoop.java
+new file mode 100644
+--- /dev/null	
++++ b/src/Lecture3/NestedForLoop.java	
+@@ -0,0 +1,17 @@
++package Lecture3;
++
++public class NestedForLoop {
++    public static void main(String[] args) {
++        for (int row=0; row<=10; row++){
++            int numberTwo = 10;
++            for (int column=0; column<=3; column++){
++                int number = 5;
++                System.out.println("This is row: " + row);
++                System.out.println("With column: " + column);
++                System.out.println(number);
++                System.out.println(numberTwo);
++            }
++            //System.out.println(number);
++        }
++    }
++}
+Index: src/Lecture3/WhileLoop.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Lecture3/WhileLoop.java b/src/Lecture3/WhileLoop.java
+new file mode 100644
+--- /dev/null	
++++ b/src/Lecture3/WhileLoop.java	
+@@ -0,0 +1,29 @@
++package Lecture3;
++
++public class WhileLoop {
++    public static void main(String[] args) {
++        boolean controlStatement = true;
++        int number = 0;
++
++        while (controlStatement){
++
++            System.out.println(number);
++
++            number++;
++
++            if (number > 10){
++                controlStatement = false;
++            }
++        }
++
++        int numberWhile = 2;
++        while (numberWhile>10){
++            numberWhile++;
++            System.out.println(numberWhile);
++            numberWhile+=11;
++            System.out.println("Finish");
++        }
++
++        System.out.println("End code");
++    }
++}

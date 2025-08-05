@@ -1,4 +1,4 @@
-package Lecture3;
+package Lecture3.LiveDemo;
 
 public class ForEachLoop {
     public static void main(String[] args) {

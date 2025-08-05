@@ -5,17 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e47f5237-8457-48c3-b0a1-e0cce8f2de92" name="Changes" comment="Update the code structure">
-      <change afterPath="$PROJECT_DIR$/src/Lecture1/Exercises/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture1/Exercises/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture1/Exercises/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/ArithmeticOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/AssignmentOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/ComparisonOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/OperatorPrecedence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/Exercises/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/Exercises/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercises/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercises/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercises/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/LiveDemo/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/LiveDemo/ArrayListClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/LiveDemo/LinkedListClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/LiveDemo/MultidimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/LiveDemo/QueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/LiveDemo/StackClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture1/MyFirstPackage/DatatypesCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture1/LiveDemo/DatatypesCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture1/MyFirstPackage/MyFirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture1/LiveDemo/MyFirstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture1/MyFirstPackage/MyFirstInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture1/LiveDemo/MyFirstInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture1/MyFirstPackage/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture1/LiveDemo/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/ArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/AssignmentOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/AssignmentOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/ComparisonOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/ComparisonOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/LogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/OperatorPrecedence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/OperatorPrecedence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/SwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/BreakStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/BreakStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/ContinueStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/ContinueStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/Exercises/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/ExercisesHints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/Exercises/ExercisesHints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/ForEachLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/NestedForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/NestedForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/WhileLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +51,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -44,35 +70,45 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArithmeticOperators.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.ArrayListClass.executor": "Run",
     "Application.AssignmentOperators.executor": "Run",
     "Application.ComparisonOperators.executor": "Run",
     "Application.DatatypesCasting.executor": "Run",
     "Application.Draw.executor": "Run",
+    "Application.Exercise1.executor": "Run",
     "Application.Exercise2.executor": "Run",
+    "Application.Exercise3.executor": "Run",
     "Application.Exercise5.executor": "Run",
+    "Application.Exercise7.executor": "Run",
     "Application.IfStatements.executor": "Run",
+    "Application.Lecture4.Exercises.Exercise1.executor": "Run",
+    "Application.LinkedListClass.executor": "Run",
     "Application.LogicalOperators.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MultidimensionalArray.executor": "Run",
     "Application.MyFirstClass.executor": "Run",
     "Application.MyFirstInput.executor": "Run",
     "Application.OperatorPrecedence.executor": "Run",
     "Application.Operators.executor": "Run",
+    "Application.QueueDemo.executor": "Run",
+    "Application.StackClass.executor": "Run",
     "Application.SwitchCase.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Lecture4",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Skillo/BaseJava/src/Main.java",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SwitchCase">
-    <configuration name="ComparisonOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture2.ComparisonOperators" />
+  <component name="RunManager" selected="Application.Exercise3">
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture3.Exercises.Exercise1" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value="Lecture3.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture2.IfStatements" />
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture3.Exercises.Exercise2" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value="Lecture3.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture2.LogicalOperators" />
+    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture4.Exercises.Exercise3" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value="Lecture4.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorPrecedence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture2.OperatorPrecedence" />
+    <configuration name="Lecture4.Exercises.Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture4.Exercises.Exercise1" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value="Lecture4.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture2.SwitchCase" />
+    <configuration name="StackClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture4.LiveDemo.StackClass" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value="Lecture4.LiveDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.IfStatements" />
-        <item itemvalue="Application.OperatorPrecedence" />
-        <item itemvalue="Application.LogicalOperators" />
-        <item itemvalue="Application.ComparisonOperators" />
+        <item itemvalue="Application.Exercise3" />
+        <item itemvalue="Application.Lecture4.Exercises.Exercise1" />
+        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.Exercise1" />
+        <item itemvalue="Application.StackClass" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +243,7 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lecture2/SwitchCase.java</url>
+          <url>file://$PROJECT_DIR$/src/Lecture2/LiveDemo/SwitchCase.java</url>
           <line>61</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>

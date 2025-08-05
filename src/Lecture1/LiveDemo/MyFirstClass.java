@@ -1,4 +1,4 @@
-package Lecture1.MyFirstPackage;
+package Lecture1.LiveDemo;
 
 public class MyFirstClass {
     public static void main(String[] args){

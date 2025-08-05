@@ -1,4 +1,4 @@
-package Lecture3;
+package Lecture3.Exercises;
 
 public class ExercisesHints {
     public static void main(String[] args) {
