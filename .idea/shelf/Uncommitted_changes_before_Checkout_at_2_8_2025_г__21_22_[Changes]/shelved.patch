@@ -1,0 +1,208 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e47f5237-8457-48c3-b0a1-e0cce8f2de92\" name=\"Changes\" comment=\"Update the code structure\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lecture1/Exercises/Exercise1.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lecture1/Exercises/Exercise2.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lecture1/Exercises/Exercise5.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lecture2/ArithmeticOperators.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lecture2/AssignmentOperators.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lecture2/ComparisonOperators.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lecture2/IfStatements.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lecture2/LogicalOperators.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lecture2/OperatorPrecedence.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/Lecture2/SwitchCase.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"30KURk0Lk6mUhzH0gfpiFD1IUcp\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.ArithmeticOperators.executor\": \"Run\",\r\n    \"Application.AssignmentOperators.executor\": \"Run\",\r\n    \"Application.ComparisonOperators.executor\": \"Run\",\r\n    \"Application.DatatypesCasting.executor\": \"Run\",\r\n    \"Application.Draw.executor\": \"Run\",\r\n    \"Application.Exercise2.executor\": \"Run\",\r\n    \"Application.Exercise5.executor\": \"Run\",\r\n    \"Application.IfStatements.executor\": \"Run\",\r\n    \"Application.LogicalOperators.executor\": \"Run\",\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"Application.MyFirstClass.executor\": \"Run\",\r\n    \"Application.MyFirstInput.executor\": \"Run\",\r\n    \"Application.OperatorPrecedence.executor\": \"Run\",\r\n    \"Application.Operators.executor\": \"Run\",\r\n    \"Application.SwitchCase.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"onboarding.tips.debug.path\": \"D:/Skillo/BaseJava/src/Main.java\",\r\n    \"settings.editor.selected.configurable\": \"project.propVCSSupport.CommitDialog\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Application.SwitchCase\">\r\n    <configuration name=\"ComparisonOperators\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Lecture2.ComparisonOperators\" />\r\n      <module name=\"BaseJava\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Lecture2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"IfStatements\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Lecture2.IfStatements\" />\r\n      <module name=\"BaseJava\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Lecture2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"LogicalOperators\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Lecture2.LogicalOperators\" />\r\n      <module name=\"BaseJava\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Lecture2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"OperatorPrecedence\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Lecture2.OperatorPrecedence\" />\r\n      <module name=\"BaseJava\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Lecture2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"SwitchCase\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Lecture2.SwitchCase\" />\r\n      <module name=\"BaseJava\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Lecture2.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.SwitchCase\" />\r\n        <item itemvalue=\"Application.IfStatements\" />\r\n        <item itemvalue=\"Application.OperatorPrecedence\" />\r\n        <item itemvalue=\"Application.LogicalOperators\" />\r\n        <item itemvalue=\"Application.ComparisonOperators\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e47f5237-8457-48c3-b0a1-e0cce8f2de92\" name=\"Changes\" comment=\"\" />\r\n      <created>1753375753218</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1753375753218</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Initial commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753385437382</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753385437382</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Update the code structure\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1753386783118</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1753386783118</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Initial commit\" />\r\n    <MESSAGE value=\"Update the code structure\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Update the code structure\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Lecture1/Main.java</url>\r\n          <line>3</line>\r\n          <option name=\"timeStamp\" value=\"4\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/Lecture2/SwitchCase.java</url>\r\n          <line>61</line>\r\n          <option name=\"timeStamp\" value=\"8\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,17 +4,17 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e47f5237-8457-48c3-b0a1-e0cce8f2de92" name="Changes" comment="Update the code structure">
+-      <change afterPath="$PROJECT_DIR$/src/Lecture1/Exercises/Exercise1.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lecture1/Exercises/Exercise2.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lecture1/Exercises/Exercise5.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lecture2/ArithmeticOperators.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lecture2/AssignmentOperators.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lecture2/ComparisonOperators.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lecture2/IfStatements.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lecture2/LogicalOperators.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lecture2/OperatorPrecedence.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Lecture2/SwitchCase.java" afterDir="false" />
++    <list default="true" id="e47f5237-8457-48c3-b0a1-e0cce8f2de92" name="Changes" comment="Lecture 2">
++      <change afterPath="$PROJECT_DIR$/src/Lecture2/Exercises/Exercise4.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Lecture3/BreakStatement.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Lecture3/ContinueStatement.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Lecture3/DoWhileLoop.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Lecture3/Exercise7.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Lecture3/ExercisesHints.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Lecture3/ForEachLoop.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Lecture3/ForLoop.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Lecture3/NestedForLoop.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Lecture3/WhileLoop.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -30,6 +30,11 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectColorInfo">{
+@@ -45,34 +50,43 @@
+   "keyToString": {
+     "Application.ArithmeticOperators.executor": "Run",
+     "Application.AssignmentOperators.executor": "Run",
++    "Application.BreakStatement.executor": "Run",
+     "Application.ComparisonOperators.executor": "Run",
++    "Application.ContinueStatement.executor": "Run",
+     "Application.DatatypesCasting.executor": "Run",
++    "Application.DoWhileLoop.executor": "Run",
+     "Application.Draw.executor": "Run",
+     "Application.Exercise2.executor": "Run",
++    "Application.Exercise4.executor": "Run",
+     "Application.Exercise5.executor": "Run",
++    "Application.Exercise7.executor": "Run",
++    "Application.ForEachLoop.executor": "Run",
++    "Application.ForLoop.executor": "Run",
+     "Application.IfStatements.executor": "Run",
+     "Application.LogicalOperators.executor": "Run",
+     "Application.Main.executor": "Run",
+     "Application.MyFirstClass.executor": "Run",
+     "Application.MyFirstInput.executor": "Run",
++    "Application.NestedForLoop.executor": "Run",
+     "Application.OperatorPrecedence.executor": "Run",
+     "Application.Operators.executor": "Run",
+     "Application.SwitchCase.executor": "Run",
++    "Application.WhileLoop.executor": "Run",
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
++    "git-widget-placeholder": "lecture2",
+     "kotlin-language-version-configured": "true",
+     "onboarding.tips.debug.path": "D:/Skillo/BaseJava/src/Main.java",
+     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+   }
+ }]]></component>
+-  <component name="RunManager" selected="Application.SwitchCase">
+-    <configuration name="ComparisonOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Lecture2.ComparisonOperators" />
++  <component name="RunManager" selected="Application.Exercise7">
++    <configuration name="BreakStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Lecture3.BreakStatement" />
+       <module name="BaseJava" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="Lecture2.*" />
++          <option name="PATTERN" value="Lecture3.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -80,12 +94,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Lecture2.IfStatements" />
++    <configuration name="ContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Lecture3.ContinueStatement" />
+       <module name="BaseJava" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="Lecture2.*" />
++          <option name="PATTERN" value="Lecture3.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -93,12 +107,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Lecture2.LogicalOperators" />
++    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Lecture3.DoWhileLoop" />
+       <module name="BaseJava" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="Lecture2.*" />
++          <option name="PATTERN" value="Lecture3.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -106,12 +120,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="OperatorPrecedence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Lecture2.OperatorPrecedence" />
++    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Lecture3.Exercise7" />
+       <module name="BaseJava" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="Lecture2.*" />
++          <option name="PATTERN" value="Lecture3.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -119,12 +133,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="Lecture2.SwitchCase" />
++    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Lecture3.ForEachLoop" />
+       <module name="BaseJava" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="Lecture2.*" />
++          <option name="PATTERN" value="Lecture3.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -134,11 +148,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.SwitchCase" />
+-        <item itemvalue="Application.IfStatements" />
+-        <item itemvalue="Application.OperatorPrecedence" />
+-        <item itemvalue="Application.LogicalOperators" />
+-        <item itemvalue="Application.ComparisonOperators" />
++        <item itemvalue="Application.Exercise7" />
++        <item itemvalue="Application.BreakStatement" />
++        <item itemvalue="Application.ContinueStatement" />
++        <item itemvalue="Application.ForEachLoop" />
++        <item itemvalue="Application.DoWhileLoop" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -167,7 +181,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1753386783118</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="Lecture 2">
++      <option name="closed" value="true" />
++      <created>1753816034116</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1753816034116</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -196,7 +218,8 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Initial commit" />
+     <MESSAGE value="Update the code structure" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Update the code structure" />
++    <MESSAGE value="Lecture 2" />
++    <option name="LAST_COMMIT_MESSAGE" value="Lecture 2" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>

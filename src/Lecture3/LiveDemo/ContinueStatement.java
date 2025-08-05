@@ -1,4 +1,4 @@
-package Lecture3;
+package Lecture3.LiveDemo;
 
 public class ContinueStatement {
     public static void main(String[] args) {

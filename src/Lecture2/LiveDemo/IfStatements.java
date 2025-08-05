@@ -1,4 +1,4 @@
-package Lecture2;
+package Lecture2.LiveDemo;
 
 import java.util.Scanner;
 

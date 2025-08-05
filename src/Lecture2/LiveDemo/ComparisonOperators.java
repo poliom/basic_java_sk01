@@ -1,4 +1,4 @@
-package Lecture2;
+package Lecture2.LiveDemo;
 
 public class ComparisonOperators {
     public static void main(String[] args) {
