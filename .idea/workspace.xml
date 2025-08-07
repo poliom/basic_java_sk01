@@ -4,39 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e47f5237-8457-48c3-b0a1-e0cce8f2de92" name="Changes" comment="Update the code structure">
-      <change afterPath="$PROJECT_DIR$/src/Lecture3/Exercises/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture3/Exercises/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercises/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercises/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercises/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/LiveDemo/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/LiveDemo/ArrayListClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/LiveDemo/LinkedListClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/LiveDemo/MultidimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/LiveDemo/QueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/LiveDemo/StackClass.java" afterDir="false" />
+    <list default="true" id="e47f5237-8457-48c3-b0a1-e0cce8f2de92" name="Changes" comment="Lecture 4">
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercises/Exercise8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercises/Exercise8Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/Exercises/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/Exercises/Exercise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/Exercises/Exercise8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/LiveDemo/MethodOverloadParameterNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/LiveDemo/MethodOverloadParameterType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/LiveDemo/MethodsInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/LiveDemo/MethodsToCall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture1/MyFirstPackage/DatatypesCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture1/LiveDemo/DatatypesCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture1/MyFirstPackage/MyFirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture1/LiveDemo/MyFirstClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture1/MyFirstPackage/MyFirstInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture1/LiveDemo/MyFirstInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture1/MyFirstPackage/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture1/LiveDemo/Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture2/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/ArithmeticOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture2/AssignmentOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/AssignmentOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture2/ComparisonOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/ComparisonOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture2/IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/IfStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture2/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/LogicalOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture2/OperatorPrecedence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/OperatorPrecedence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture2/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/LiveDemo/SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture3/BreakStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/BreakStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture3/ContinueStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/ContinueStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture3/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/DoWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture3/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/Exercises/Exercise7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture3/ExercisesHints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/Exercises/ExercisesHints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture3/ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/ForEachLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture3/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture3/NestedForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/NestedForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lecture3/WhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture3/LiveDemo/WhileLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Lecture4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,12 +58,18 @@
     "Application.Exercise2.executor": "Run",
     "Application.Exercise3.executor": "Run",
     "Application.Exercise5.executor": "Run",
+    "Application.Exercise6.executor": "Run",
     "Application.Exercise7.executor": "Run",
+    "Application.Exercise8.executor": "Run",
     "Application.IfStatements.executor": "Run",
     "Application.Lecture4.Exercises.Exercise1.executor": "Run",
+    "Application.Lecture5.Exercises.Exercise8.executor": "Run",
     "Application.LinkedListClass.executor": "Run",
     "Application.LogicalOperators.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MethodOverload.executor": "Run",
+    "Application.MethodOverloadParameterNumbers.executor": "Run",
+    "Application.MethodsInJava.executor": "Run",
     "Application.MultidimensionalArray.executor": "Run",
     "Application.MyFirstClass.executor": "Run",
     "Application.MyFirstInput.executor": "Run",
@@ -96,19 +80,24 @@
     "Application.SwitchCase.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Lecture4",
+    "git-widget-placeholder": "Lecture5",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/Skillo/BaseJava/src/Main.java",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercise3">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lecture4.Exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercise6">
     <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture3.Exercises.Exercise1" />
+      <option name="MAIN_CLASS_NAME" value="Lecture5.Exercises.Exercise1" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture3.Exercises.*" />
+          <option name="PATTERN" value="Lecture5.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture3.Exercises.Exercise2" />
+    <configuration name="Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture5.Exercises.Exercise6" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture3.Exercises.*" />
+          <option name="PATTERN" value="Lecture5.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture4.Exercises.Exercise3" />
+    <configuration name="Lecture5.Exercises.Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture5.Exercises.Exercise8" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture4.Exercises.*" />
+          <option name="PATTERN" value="Lecture5.Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lecture4.Exercises.Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture4.Exercises.Exercise1" />
+    <configuration name="MethodOverloadParameterNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture5.LiveDemo.MethodOverloadParameterNumbers" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture4.Exercises.*" />
+          <option name="PATTERN" value="Lecture5.LiveDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture4.LiveDemo.StackClass" />
+    <configuration name="MethodOverloadParameterType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecture5.LiveDemo.MethodOverloadParameterType" />
       <module name="BaseJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture4.LiveDemo.*" />
+          <option name="PATTERN" value="Lecture5.LiveDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise3" />
-        <item itemvalue="Application.Lecture4.Exercises.Exercise1" />
-        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.Exercise6" />
+        <item itemvalue="Application.Lecture5.Exercises.Exercise8" />
         <item itemvalue="Application.Exercise1" />
-        <item itemvalue="Application.StackClass" />
+        <item itemvalue="Application.MethodOverloadParameterNumbers" />
+        <item itemvalue="Application.MethodOverloadParameterType" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753386783118</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lecture 4">
+      <option name="closed" value="true" />
+      <created>1754421581921</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754421581922</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +229,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Update the code structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update the code structure" />
+    <MESSAGE value="Lecture 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
