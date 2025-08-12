@@ -13,6 +13,7 @@ public class Exercise1 {
                 smallestNumber = number;
             }
         }
+
         System.out.println("The smallest number is: " + smallestNumber);
     }
 }
